@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  practice-27:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-09T21:17:44.527653949+05:00"
+    description: A Helm chart for Kubernetes
+    digest: d615b0a674cde5c75abf7617e240bb1520f2da559570e034528a2a8e9d2ddd92
+    name: practice-27
+    type: application
+    urls:
+    - practice-27-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-02-09T21:17:44.527188068+05:00"
